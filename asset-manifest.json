@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/aryan_portfolio_react/static/css/main.fa2a69da.chunk.css",
+    "main.js": "/aryan_portfolio_react/static/js/main.21dcb7d2.chunk.js",
+    "main.js.map": "/aryan_portfolio_react/static/js/main.21dcb7d2.chunk.js.map",
+    "runtime-main.js": "/aryan_portfolio_react/static/js/runtime-main.bab6600e.js",
+    "runtime-main.js.map": "/aryan_portfolio_react/static/js/runtime-main.bab6600e.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/aryan_portfolio_react/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.15c37109.chunk.js": "/aryan_portfolio_react/static/js/2.15c37109.chunk.js",
+    "static/js/2.15c37109.chunk.js.map": "/aryan_portfolio_react/static/js/2.15c37109.chunk.js.map",
+    "index.html": "/aryan_portfolio_react/index.html",
+    "precache-manifest.5594fe0950e4df0d6f66cfc83b103c55.js": "/aryan_portfolio_react/precache-manifest.5594fe0950e4df0d6f66cfc83b103c55.js",
+    "service-worker.js": "/aryan_portfolio_react/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/aryan_portfolio_react/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.fa2a69da.chunk.css.map": "/aryan_portfolio_react/static/css/main.fa2a69da.chunk.css.map",
+    "static/js/2.15c37109.chunk.js.LICENSE.txt": "/aryan_portfolio_react/static/js/2.15c37109.chunk.js.LICENSE.txt",
+    "static/media/ar.jpeg": "/aryan_portfolio_react/static/media/ar.7987fbca.jpeg",
+    "static/media/css.svg": "/aryan_portfolio_react/static/media/css.2db97d69.svg",
+    "static/media/html.svg": "/aryan_portfolio_react/static/media/html.ce6e5ba0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bab6600e.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.15c37109.chunk.js",
+    "static/css/main.fa2a69da.chunk.css",
+    "static/js/main.21dcb7d2.chunk.js"
+  ]
+}
